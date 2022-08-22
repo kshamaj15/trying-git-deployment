@@ -1,0 +1,44 @@
+.container {
+  padding: 20px;
+}
+
+#loading {
+  background: url('./assets/logo.gif') no-repeat center center;
+  position: absolute;
+  background-color: #011627;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 9999999;
+}
+
+.home-page {
+  text-align: center;
+  padding: 5rem 0;
+}
+
+.my-name {
+  font-size: 60px;
+  font-weight: 800;
+  overflow: hidden;
+  white-space: nowrap; 
+  margin: 0 auto; 
+  color: var(--color-font-solid);
+  animation: typing 3.5s steps(40, end);
+}
+
+.my-details {
+  width: max(50%, 400px);
+  text-align: center;
+  margin: auto;
+  padding: 1rem 0;
+  font-size: 18px;
+  color: var(--color-font);
+  line-height: 30px;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
