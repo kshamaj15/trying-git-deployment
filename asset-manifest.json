@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trying-git-deployment/static/css/main.e1bb9bce.css",
+    "main.js": "/trying-git-deployment/static/js/main.337c5a94.js",
+    "static/js/787.57c3f246.chunk.js": "/trying-git-deployment/static/js/787.57c3f246.chunk.js",
+    "static/media/logo.gif": "/trying-git-deployment/static/media/logo.dfcf469133ac59993dcd.gif",
+    "index.html": "/trying-git-deployment/index.html",
+    "static/media/sun-white.svg": "/trying-git-deployment/static/media/sun-white.110db8a986518f07dc26.svg",
+    "static/media/sun.svg": "/trying-git-deployment/static/media/sun.12092d9c8214b71b6f2e.svg",
+    "static/media/moon-white.svg": "/trying-git-deployment/static/media/moon-white.741feb84691f8eab7efa.svg",
+    "static/media/moon.svg": "/trying-git-deployment/static/media/moon.098d29360adda434c1fe.svg",
+    "main.e1bb9bce.css.map": "/trying-git-deployment/static/css/main.e1bb9bce.css.map",
+    "main.337c5a94.js.map": "/trying-git-deployment/static/js/main.337c5a94.js.map",
+    "787.57c3f246.chunk.js.map": "/trying-git-deployment/static/js/787.57c3f246.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1bb9bce.css",
+    "static/js/main.337c5a94.js"
+  ]
+}
