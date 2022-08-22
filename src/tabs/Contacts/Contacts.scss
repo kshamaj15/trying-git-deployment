@@ -1,0 +1,68 @@
+$git: #3d2d00;
+$ln: #0e76a8;
+$mail: #bb001b;
+$phone: #0e76a8;
+$insta: #dd2a7b;
+
+.tab-contacts {
+    padding: 20px;
+    &-list {
+        padding: 0 100px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: #777;
+        text-decoration: none !important;
+        span {
+            padding-left: 10px;
+        }
+    }
+    .icon {
+        cursor: pointer;
+        padding: 10px 20px;
+        width: 100px;
+        height: 100px;
+        &:hover {
+            border-radius: 50px;
+        }
+    }
+    .git {
+        color: $git;
+        &:hover {
+            background-color: $git;
+            color: #fff;
+        }
+    }
+    .ln {
+        color: $ln;
+        &:hover {
+            background-color: $ln;
+            color: #fff;
+        }
+    }
+    .mail {
+        color: $mail;
+        &:hover {
+            background-color: $mail;
+            color: #fff;
+        }
+    }
+    .phone {
+        color: $phone;
+        &:hover {
+            background-color: $phone;
+            color: #fff;
+        }
+    }
+    .insta {
+        color: $insta;
+        &:hover {
+            background-color: $insta;
+            color: #fff;
+        }
+    }
+}
